@@ -1,0 +1,21 @@
+{
+  "name": "cookiejs",
+  "homepage": "https://github.com/nehmeroumani/cookiejs",
+  "authors": [
+    "Nehme Roumani <nehmeroumani@gmail.com>"
+  ],
+  "description": "browser cookie manipulation",
+  "main": "",
+  "keywords": [
+    "cookie",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
